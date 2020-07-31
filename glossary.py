@@ -4,3 +4,4 @@ Iteration : Repeats the same procedure multiple times until it reaches a specifi
 Loop : code that iterates,moving from beginning to end of the process,then starting over
 for : specifies a variable name that we can use in each iteration of the loop to reference the current value
 in : indicates that what follows is the set of values that we want to iterate through
+Regular Expression : Allows you to create a description of a pattern that you want to match
