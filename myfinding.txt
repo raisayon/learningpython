@@ -1,0 +1,14 @@
+Dictionary in python key is similar to database primary key it shouldn't be duplicate key otherwise its show below mentioned error
+{
+	"resource": "",
+	"owner": "python",
+	"code": "duplicate-key",
+	"severity": 4,
+	"message": "Duplicate key 'Adult' in dictionary",
+	"source": "pylint",
+	"startLineNumber": 1,
+	"startColumn": 9,
+	"endLineNumber": 1,
+	"endColumn": 9
+}
+
