@@ -12,3 +12,5 @@ Dictionary in python key is similar to database primary key it shouldn't be dupl
 	"endColumn": 9
 }
 
+Multiplying a string by a number duplicates the string the specified number of times.
+
